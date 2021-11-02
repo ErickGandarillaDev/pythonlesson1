@@ -53,3 +53,12 @@ if type(var) is str:
 
 if type(flotante) is float:
     print(' es flotante ')
+
+arreglo_num = [0,1,2,3]
+arreglo_car = ['e','n','r','o','u','t','e']
+
+print (arreglo_num[0])
+print (len(arreglo_num))
+
+for cualquiernombre in arreglo_car:
+    print(cualquiernombre)

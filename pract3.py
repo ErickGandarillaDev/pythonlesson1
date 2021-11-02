@@ -1,7 +1,5 @@
-numero = 0
-n=2
-while numero<100: 
-    numero += 1
-    if numero%n!=0:
-        print(numero)
-        n+=1
+numero = 1
+for n in range (100) 
+    print(numero)
+    numero += 2
+    
