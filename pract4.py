@@ -5,4 +5,5 @@ for m in range (2,101):
                 break
             else:    
                 print (m)
+                break
            
