@@ -44,3 +44,12 @@ while bol != bol2:
          bol = False
     print(var_rapida)
     var_rapida += 1   
+
+if type(var_rapida) is int:
+    print('Es un entero')
+
+if type(var) is str:
+    print('Es cadena')
+
+if type(flotante) is float:
+    print(' es flotante ')
