@@ -5,3 +5,4 @@ for m in range (100):
     for n in  range(2,m):
         if m%n!=0:
             print (m)
+            return true
