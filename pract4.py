@@ -4,6 +4,6 @@ n=2
 for m in range (2,101):
     for n in  range(2,m):
         if m%n==0:
-            return False
+            break
     print (m)
-    return True        
+    break        
