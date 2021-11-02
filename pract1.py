@@ -2,8 +2,8 @@ var = 'mundo'
 num = 12132
 num2= 5789
 
-flotante = 123.41f
-flotante2 = 456.12f
+flotante = 123.41
+flotante2 = 456.12
 
 carac = 'c'
 carac2= 'd'
