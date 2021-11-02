@@ -4,5 +4,5 @@ while numero<100:
     numero += 1
     if numero%n!=0:
         print(numero)
-    elif
+    elif:
         n+=1
