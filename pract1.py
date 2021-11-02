@@ -39,8 +39,8 @@ if not False:
     print ('La negacion de falso')
 
 
- while bol != bol2:
-     if(var_rapida>10):
+while bol != bol2:
+    if(var_rapida>10):
          bol = False
-     print(var_rapida)
-     var_rapida += 1   
+    print(var_rapida)
+    var_rapida += 1   
