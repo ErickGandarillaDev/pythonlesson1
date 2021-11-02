@@ -1,7 +1,7 @@
 var = 'mundo'
 num = 12132
 num2= 5789
-
+var_rapida = 0
 flotante = 123.41
 flotante2 = 456.12
 
@@ -38,7 +38,7 @@ if True:
 if not False:
     print ('La negacion de falso')
 
- var_rapida = 0
+
  while bol != bol2:
      if(var_rapida>10):
          bol = False
